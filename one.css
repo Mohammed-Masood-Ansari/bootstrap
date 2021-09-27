@@ -1,0 +1,22 @@
+@media (min-width:900px) (max-width:100px)
+{
+div{
+	border:1px solid;
+	height:100px;
+	width:100px;
+}
+.red{
+	background-color:red;
+	
+}
+.green{
+	background-color:green;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.yellow{
+	background-color:yellow;
+	margin-left: 40px;
+	margin-top: 40px;
+}
+}
